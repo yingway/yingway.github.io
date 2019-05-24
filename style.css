@@ -1,0 +1,42 @@
+*{
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: #050505;
+	color: #F9FDFC;
+}
+h1{
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Rock Salt', cursive;
+}
+h3, p{
+	font-family: 'Advent Pro', sans-serif;
+}
+aside{
+	width: 250px;
+	height: auto;
+	margin-top: 30px;
+	float: right;
+	background-color: #F9FDFC;
+	color: #050505;
+	border-right: 2px solid #581845;
+}
+button{
+	align-items: right;
+	border-radius: 5px;
+	border: none;
+	margin: 10px;
+	padding: 10px;
+}
+#btn01, #btn04, #btn07{
+	background-color: #FBB03B;
+}
+#btn02, #btn05{
+	background-color: #036FBC;
+}
+#btn03, #btn06{
+	background-color: #E82351;
+}
