@@ -12,17 +12,29 @@ h1{
 	font-family: 'Roboto', sans-serif;
 	font-family: 'Rock Salt', cursive;
 }
+h1#website{
+	font-size: 50px;
+	color: #ffbf00	;
+	margin: 10px 25px;
+}
 h3, p{
 	font-family: 'Advent Pro', sans-serif;
 }
+p#self{
+	font-size: 70px;
+	font-weight: bolder;
+	margin: 50px 100px 50px 50px;
+	padding: 50px 180px 50px 50px;
+	/* border: 3px solid red; */
+}
 aside{
-	width: 250px;
+	width: 200px;
 	height: auto;
-	margin-top: 30px;
+	margin-top: 150px;
 	float: right;
-	background-color: #F9FDFC;
+/*	background-color: #F9FDFC;*/
 	color: #050505;
-	border-right: 2px solid #581845;
+	border-left: 2px solid #581845;
 }
 button{
 	align-items: right;
